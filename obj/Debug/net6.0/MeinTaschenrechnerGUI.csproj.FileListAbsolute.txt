@@ -1,0 +1,12 @@
+/Users/philippsauer/calc/MeinTaschenrechnerGUI/obj/Debug/net6.0/MeinTaschenrechnerGUI.csproj.AssemblyReference.cache
+/Users/philippsauer/calc/MeinTaschenrechnerGUI/obj/Debug/net6.0/Avalonia/Resources.Inputs.cache
+/Users/philippsauer/calc/MeinTaschenrechnerGUI/obj/Debug/net6.0/Avalonia/resources
+/Users/philippsauer/calc/MeinTaschenrechnerGUI/obj/Debug/net6.0/MeinTaschenrechnerGUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/philippsauer/calc/MeinTaschenrechnerGUI/obj/Debug/net6.0/MeinTaschenrechnerGUI.AssemblyInfoInputs.cache
+/Users/philippsauer/calc/MeinTaschenrechnerGUI/obj/Debug/net6.0/MeinTaschenrechnerGUI.AssemblyInfo.cs
+/Users/philippsauer/calc/MeinTaschenrechnerGUI/obj/Debug/net6.0/MeinTaschenrechnerGUI.csproj.CoreCompileInputs.cache
+/Users/philippsauer/calc/MeinTaschenrechnerGUI/obj/Debug/net6.0/Avalonia/references
+/Users/philippsauer/calc/MeinTaschenrechnerGUI/obj/Debug/net6.0/Avalonia/original.dll
+/Users/philippsauer/calc/MeinTaschenrechnerGUI/obj/Debug/net6.0/Avalonia/original.pdb
+/Users/philippsauer/calc/MeinTaschenrechnerGUI/obj/Debug/net6.0/Avalonia/original.ref.dll
+/Users/philippsauer/calc/MeinTaschenrechnerGUI/obj/Debug/net6.0/refint/MeinTaschenrechnerGUI.dll
